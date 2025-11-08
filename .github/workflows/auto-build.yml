@@ -1,3 +1,5 @@
+ name: Install OpenSSL
+ run: choco install openssl
 name: Auto build Aseprite
 
 on:
